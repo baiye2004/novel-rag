@@ -129,3 +129,4 @@ RRF 适合「候选只占全库一小部分」的大库。代码里留了 `FUSIO
 
 自带 `data/demo_novel.txt`（8 章原创示例，可自由使用）。
 正式演示建议用《三国演义》等公有领域作品，`data/novel.txt` 已被 `.gitignore` 忽略，不会误传有版权的文本。
+<img width="787" height="859" alt="image" src="https://github.com/user-attachments/assets/b2e12ba6-8cf7-450f-aade-cecc0e56da25" />
