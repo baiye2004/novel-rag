@@ -1,0 +1,9 @@
+# 中文分词（BM25 用）；不装也能跑，会退化成二字切分
+jieba>=0.42
+# 向量模型（语义检索）
+sentence-transformers>=2.7
+numpy>=1.26
+# 调用 DeepSeek（OpenAI 兼容协议）
+openai>=1.30
+# 界面
+gradio>=4.0

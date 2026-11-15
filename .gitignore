@@ -1,0 +1,22 @@
+# 语料不要提交（体积大 + 可能有版权），按 README 说明自行放置
+data/*
+!data/README.md
+!data/demo_novel.txt
+
+# 本地生成的索引不需要提交
+chroma/
+*.pkl
+*.npz
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.deps/
+.wheels/
+.tmp/
+.pipcache/
+
+# 不要把密钥提交上去
+.env
+*.key
